@@ -14,10 +14,10 @@ This user is an general gematik employee developer account to answer questions a
   <img align="left" alt="gematik github.io" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
-  <img align="left" alt="Homepage" width="100px" src="https://www.gematik.de/typo3conf/ext/dsc_distribution/Resources/Public/Images/logo/Gematik_Logo_Blue.svg" />
+  <img align="left" alt="Homepage" width="100px" src="https://www.gematik.de/typo3conf/ext/as_template_gematik/Resources/Public/Images/logo.svg" />
 </a>
 <a href="https://fachportal.gematik.de/">
-  <img align="left" alt="Homepage" width="100px" src="https://fachportal.gematik.de/typo3conf/ext/dsc_distribution/Resources/Public/Images/logo/GematikFachportal_Logo_Flag_Blue.svg" />
+  <img align="left" alt="Homepage" width="100px" src="https://fachportal.gematik.de/typo3conf/ext/rsmbasechild/Resources/Public/Icons/logo-gematik-fachportal.svg" />
 </a>
 <br>
 <br>
