@@ -1,4 +1,4 @@
-# Welcome to user page of Gematik-Entwicklung 👋
+# Welcome to user page of gematik-Entwicklung 👋
 ### Support for development of medical applications in context of telematics infrastructure.
 This user is an general gematik employee developer account to answer questions and publish code. More Information on <a href="https://github.com/gematik1/">gematik1</a>
 <br>
